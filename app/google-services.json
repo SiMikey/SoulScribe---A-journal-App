@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271082421012",
+    "project_id": "soulscribe-the-journal-app",
+    "storage_bucket": "soulscribe-the-journal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271082421012:android:40d32ee3bf5433ad716001",
+        "android_client_info": {
+          "package_name": "com.example.soulscribe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271082421012-8ghbr10v6g768ar5k1vl86jhlup23i85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulscribe",
+            "certificate_hash": "993abf171498ea633f916e27cb23dca71c48f750"
+          }
+        },
+        {
+          "client_id": "271082421012-q1ea46k74vc97ed7hl44i76fod6bcs0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcusFeWdwEWQ_V8sKQH6mYQkF0g-af_ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271082421012-q1ea46k74vc97ed7hl44i76fod6bcs0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
